@@ -1,2 +1,2 @@
-# AndriodStudio
+# AndroidStudio
 Android Application sample
